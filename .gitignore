@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+env/
+
+# Training artifacts (keep models/ folder though)
+runs/
+wandb/
+
+# Data
+data/
+imgs/
+
+# Temp
+*.tmp
+*.log
